@@ -349,7 +349,7 @@ mermaid:
   enable: true
 
 
-sass:
-  sass_dir: assets/css
-  style: compressed
-  quiet_deps: true # 외부 라이브러리(Minimal Mistakes)의 @import 경고를 숨김
+# sass:
+#   sass_dir: assets/css
+#   style: compressed
+#   quiet_deps: true # 외부 라이브러리(Minimal Mistakes)의 @import 경고를 숨김
